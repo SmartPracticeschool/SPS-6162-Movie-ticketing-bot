@@ -1,5 +1,5 @@
 # SPS-6162-Movie-ticketing-bot
-Movie ticketing bot
+Movie ticketing bot using IBM Watson and NodeRED Application
 
 Youtube Demonstration Video Link :   https://youtu.be/T0m8g6DpDm8
 
